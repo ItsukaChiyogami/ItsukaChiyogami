@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aditya Ridwan</h1>
 <h3 align="center">A Junior Programmer From Indonesia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsukachiyogami&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
 - 🔭 I’m currently working on **Fullstack Developer**  
 - 🌱 I’m currently learning **Spring Boot**  
 - 👯 I’m looking to collaborate on **WebDev and GameDev projects**  
